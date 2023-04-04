@@ -178,3 +178,16 @@ footer .politicas {
 footer .o {
     font-size: 10px;
 }
+
+/*Utilizando HTML diferente para login*/
+
+
+.tela-esquerda{
+    background-color: aqua;
+    width: 42%;
+    box-shadow: 3px 0px 2px rgb(197, 197, 197);
+}
+
+.tela-esquerda>h1{
+   
+}
